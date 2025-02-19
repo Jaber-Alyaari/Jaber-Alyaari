@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm [Jaber Alyaari]! 👋
 
-<!--
-**Jaber-Alyaari/Jaber-Alyaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** specializing in **Angular** and **ASP.NET**. I love building responsive, user-friendly web applications and solving complex problems with clean, maintainable code. I'm always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Development
+- **Frameworks**: Angular,
+- **Languages**: TypeScript, JavaScript, HTML5, CSS3/SCSS
+- **State Management**: RxJS, NgRx 
+
+
+### Backend Development
+- **Frameworks**: ASP.NET Core, .NET Framework
+- **Languages**: C#, SQL
+- **APIs**: RESTful APIs,
+- **ORM**: Entity Framework Core
+
+### Tools & Platforms
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**: Azure DevOps, GitHub Actions
+- **Containerization**: Docker 
+- **IDEs**: Visual Studio, VS Code
+
+## 🌱 I’m currently learning
+- [e.g., Advanced Angular Patterns, Microfrontends, Blazor, etc.]
+- [e.g., DevOps practices, Kubernetes, etc.]
